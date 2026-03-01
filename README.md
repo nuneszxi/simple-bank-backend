@@ -33,16 +33,4 @@ Paradigma: Orientada a Objetos (POO)
 
 Interface: CLI (Interface de Linha de Comando)
 
-# Exemplo de Uso:
-
-Ao iniciar o programa, o usuário informa seu nome e é apresentado ao seguinte menu:
-
-```
-
---------MENU DE OPÇÕES----------
-1. SALDO | 2. DEPOSITAR | 3. SACAR | 4. SAIR
-
-
-```
-
 
