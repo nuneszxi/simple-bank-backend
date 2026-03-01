@@ -1,0 +1,14 @@
+# Extensões de sistema (Windows/Mac)
+Thumbs.db
+.DS_Store
+
+# Configurações do VS Code
+.vscode/
+
+# Logs de erro
+*.log
+
+# Pastas de dependências (caso você use Node ou Python no futuro)
+node_modules/
+__pycache__/
+.venv/
