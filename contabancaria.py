@@ -51,6 +51,4 @@ while True:
         break
     else:
         print('Opção inválida!!')
-
-    #DEU CERTO VAMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
         
